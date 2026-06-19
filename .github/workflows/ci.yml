@@ -20,7 +20,7 @@ jobs:
       - name: Run tests
         run: python app.py
       - name: Upload test results
-        run: echo "Test results uploaded successfully"
+        run:   echo "Test results uploaded successfully"
     
 
   
