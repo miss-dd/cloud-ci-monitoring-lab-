@@ -18,7 +18,7 @@ jobs:
           python -m pip install --upgrade pip
           
       - name: Run tests
-        run: python app.py
+        run: pythonnn app.py
       - name: Upload test results
         run:   echo "Test results uploaded successfully"
     
